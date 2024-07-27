@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/scratchbookmarklets/images/main/Large%20Logo.PNG" width=75% alt="Scrath Bookmarklets Logo"></img></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/scratchbookmarklets/images/main/Large%20Logo.PNG" width=75% alt="Scratch Bookmarklets Logo"></img></h1>
 <h1 align="center">Scratch Bookmarklets</h1>
 
 <h3>What is Scratch Bookmarklets?</h3>
